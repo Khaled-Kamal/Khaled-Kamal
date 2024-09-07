@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Kamal</h1>
 <h3 align="center">A passionate Flutter Developer From Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-kamal&label=Profile%20views&color=0e75b6&style=flat" alt="khaled-kamal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaled-kamal" alt="khaled-kamal" /></a> </p>
 
 - 📫 How to reach me **KhaledKamal14t@outlook.sa**
 
