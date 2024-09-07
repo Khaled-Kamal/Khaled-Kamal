@@ -18,7 +18,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled-kamal&show_icons=true&locale=en&layout=compact" alt="khaled-kamal" /></p>
 
 
-<p > <img src="https://github-readme-stats.vercel.app/api?username=yousfahmed&show_icons=true" alt="khaled-kamal" /> </p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaled-kamal&show_icons=true&locale=en" alt="khaled-kamal" /></p>
