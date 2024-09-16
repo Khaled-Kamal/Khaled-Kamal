@@ -25,7 +25,7 @@
 
 <h3 align="center">🌐 Connect with me 🌐</h3>
 <div align="center"> 
-  <a href="mailto:mhmdramadan.192@gmail.com">
+  <a href="KhaledKamal14t@outlook.sa">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/khaledkamal1/" target="_blank">
