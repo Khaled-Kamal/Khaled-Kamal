@@ -11,7 +11,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaled-Kamal&area=true&hide_border=true&theme=react-dark" height="250" alt="activity-graph" />
 </div>
 
-<h3 align="center">⚒️ Languages & Frameworks & Tools ⚒️</h3>
+<h3 align="center">⚒️ Languages && Frameworks & Tools ⚒️</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vscode,cs,cpp,figma,sass,git,github" />
     <img src="https://skillicons.dev/icons?i=react,vite,nodejs,python,javascript,jquery,materialui,typescript,postman,npm,redux,mongodb,nextjs" /><br>
